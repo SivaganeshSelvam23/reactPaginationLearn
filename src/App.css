@@ -26,8 +26,7 @@ h1 {
   height: 92vh;
 }
 .navbar {
-  margin-top: 10px;
-  height: 10vh;
+  height: 8vh;
   display: flex;
   justify-content: space-between;
   align-items: center;

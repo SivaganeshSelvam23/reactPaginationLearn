@@ -21,6 +21,7 @@ function Navbar() {
               justifyContent: "center",
               alignItems: "center",
               border: "1px solid white",
+              cursor: "pointer",
             }}
             onClick={() => toggleTheme()}
           >
@@ -36,6 +37,7 @@ function Navbar() {
               justifyContent: "center",
               alignItems: "center",
               border: "1px solid black",
+              cursor: "pointer",
             }}
             onClick={() => toggleTheme()}
           >
